@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I'm Vladyslav. Full-stack developer.</title><desc id="desc">Building thoughtful web applications. Kyiv, Ukraine.</desc>
+<style>.cursor{animation:blink 1.3s steps(2,end) infinite}.line{animation:fade 5s ease-in-out infinite alternate}@keyframes blink{50%{opacity:0}}@keyframes fade{from{opacity:.3}to{opacity:1}}@media(prefers-reduced-motion:reduce){.cursor,.line{animation:none}}</style>
+<rect width="1200" height="260" rx="12" fill="#f8f5f0"/>
+<path d="M48 42h40" stroke="#a76a47" stroke-width="3"/>
+<text x="48" y="113" font-family="Georgia,serif" font-size="52" font-weight="bold" fill="#242424">Hi, I’m Vladyslav.</text>
+<rect class="cursor" x="568" y="73" width="3" height="48" fill="#a76a47"/>
+<text x="48" y="162" font-family="Arial,sans-serif" font-size="27" fill="#a76a47">Full-stack developer</text>
+<text x="48" y="205" font-family="Arial,sans-serif" font-size="20" fill="#646464">Thoughtful interfaces. Reliable backends.</text>
+<g class="line" stroke="#a76a47" stroke-width="2" fill="none"><path d="M860 72h228M800 107h168M910 142h210M842 177h158"/></g>
+<text x="1084" y="216" font-family="monospace" font-size="24" fill="#a76a47">/&gt;</text></svg>
