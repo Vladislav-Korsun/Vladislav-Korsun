@@ -5,9 +5,11 @@ I’m a full-stack developer based in Kyiv, Ukraine. I build responsive interfac
 ## Tech stack
 
 <table>
-<tr><td><b>Frontend</b></td><td><img src="skill-0-0.svg" alt="React" height="30"> <img src="skill-0-1.svg" alt="TypeScript" height="30"> <img src="skill-0-2.svg" alt="JavaScript" height="30"> <img src="skill-0-3.svg" alt="Angular" height="30"> <img src="skill-0-4.svg" alt="HTML" height="30"> <img src="skill-0-5.svg" alt="SCSS" height="30"> <img src="skill-0-6.svg" alt="Tailwind" height="30"></td></tr>
-<tr><td><b>Backend &amp; data</b></td><td><img src="skill-1-0.svg" alt="Node.js" height="30"> <img src="skill-1-1.svg" alt="Express" height="30"> <img src="skill-1-2.svg" alt="NestJS" height="30"> <img src="skill-1-3.svg" alt="PostgreSQL" height="30"> <img src="skill-1-4.svg" alt="Prisma" height="30"> <img src="skill-1-5.svg" alt="Supabase" height="30"></td></tr>
-<tr><td><b>Mobile &amp; tools</b></td><td><img src="skill-2-0.svg" alt="React Native" height="30"> <img src="skill-2-1.svg" alt="Expo" height="30"> <img src="skill-2-2.svg" alt="Redux Toolkit" height="30"> <img src="skill-2-3.svg" alt="Zustand" height="30"> <img src="skill-2-4.svg" alt="Git" height="30"> <img src="skill-2-5.svg" alt="Vite" height="30"></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="skills-cv-frontend.svg" width="680" alt="TypeScript, JavaScript, React, Redux Toolkit, HTML5, CSS3, SCSS (Sass), BEM, Angular"></td></tr>
+<tr><td><b>Backend</b></td><td><img src="skills-cv-backend.svg" width="680" alt="Node.js, Express, SQL, PostgreSQL, Sequelize, Fetch API, REST API, WebSockets"></td></tr>
+<tr><td><b>Tools</b></td><td><img src="skills-cv-tools.svg" width="680" alt="Git, Webpack, Vite, ESLint, Prettier"></td></tr>
+<tr><td><b>Concepts</b></td><td><img src="skills-cv-concepts.svg" width="680" alt="SDLC, Waterfall, Agile (Scrum, Kanban), OOP"></td></tr>
+<tr><td><b>Languages</b></td><td><img src="skills-cv-languages.svg" width="680" alt="English - B1+"></td></tr>
 </table>
 
 ## Featured projects
@@ -41,3 +43,4 @@ I’m a full-stack developer based in Kyiv, Ukraine. I build responsive interfac
 ---
 
 [Explore my repositories ↗](https://github.com/Vladislav-Korsun?tab=repositories)
+
